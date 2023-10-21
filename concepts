@@ -1,0 +1,5 @@
+Podemos utilizar alias (AS) ou alteração dos nomes das colunas
+
+Os AS pode ser removido da escrita programada mas nao é uma boa prática.
+
+A palavra DISTINCT executa a lista de dados distintos, ou seja, dados que não se repetem dentro da mesma coluna.
